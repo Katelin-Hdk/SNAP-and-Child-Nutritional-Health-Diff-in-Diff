@@ -1,0 +1,10 @@
+**  1. Introduction to the data set **
+===============================
+
+The dataset for this projects contains diet and diet-related health outcomes, income level data, and sociodemographic data.
+*create table 1
+
+2. Parallel trends
+==================
+
+For simplicity, we are going to ignore the other assumptions of a difference-in-differences design.
